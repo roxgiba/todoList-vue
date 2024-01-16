@@ -7,7 +7,7 @@ A simple ToDo list application built with Vue 3. This application allows users t
 
 1. Clone the repository:
 ```
-git clone [https://github.com/roxgiba/todoList-vue.git](https://github.com/roxgiba/todoList-vue.git)
+git clone https://github.com/roxgiba/todoList-vue.git
 ```
 2. Install dependencies:
 ```
