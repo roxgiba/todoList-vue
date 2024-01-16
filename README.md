@@ -43,4 +43,4 @@ The application uses localStorage to persist your name and todo list even if you
 
 
 ## Deployment
-This application is deployed with Netlify. The live version can be accessed [here](https://vue-todolist-roxgiba.netlify.app/)https://vue-todolist-roxgiba.netlify.app/.
+This application is deployed with Netlify. The live version can be accessed at (https://vue-todolist-roxgiba.netlify.app/)https://vue-todolist-roxgiba.netlify.app/.
